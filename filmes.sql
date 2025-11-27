@@ -111,3 +111,6 @@ INSERT INTO filmes (titulo, genero, ano_lancamento, duracao_minutos, diretor, no
 ('O Secreto do Vale', 'Drama', 2014, 99, 'J.A. Bayona', 7.4),
 ('A Bruxa', 'Terror', 2015, 92, 'Robert Eggers', 6.9),
 ('O Farol', 'Drama', 2019, 109, 'Robert Eggers', 7.4);
+
+
+SELECT * from filmes
